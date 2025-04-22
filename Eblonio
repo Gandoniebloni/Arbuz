@@ -1,0 +1,4 @@
+"button" start "/button"
+"button" create weapon "/button"
+if - start
+  Then - ""button" create weapon "/button""-delete
